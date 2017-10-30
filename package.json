@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node ./node.js",
+    "slower": "node ./node.js",
     "test": "node ./test.js",
     "makefast": "node ./makefast.js",
     "fast": "node ./fast.js",
