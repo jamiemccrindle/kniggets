@@ -8,14 +8,14 @@
 
 ## Running the fast version
 
-    usage: yarn fast [start] [end]
+    usage: yarn run fast [start] [end]
 
         start       chess notation start position e.g. A7
         end         chess notation start position e.g. B5
 
 ## Running the slower version
 
-    usage: yarn slower [start] [end]
+    usage: yarn run slower [start] [end]
 
         start       chess notation start position e.g. A7
         end         chess notation start position e.g. B5
